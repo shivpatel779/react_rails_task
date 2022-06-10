@@ -1,1 +1,0 @@
-# react_rails_task

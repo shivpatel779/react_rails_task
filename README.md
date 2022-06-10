@@ -2,7 +2,7 @@
 
 Steps for using the rails application on macos
 
-1 Install Ruby version 2.7.2 and Rails .
+1 Install Ruby version 3.0.1 and Rails .
 
 2 Open the terminal and go to the apps location and run bundle install .
 
